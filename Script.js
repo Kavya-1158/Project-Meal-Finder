@@ -459,7 +459,7 @@
                 return;
             }
             showView('meals'); // Switch to meals view
-            toggleLoader(true); // Show loader
+            toggleLoader(true); // Show loader /true
             currentSearchTerm = searchTerm; // Set current search term for back navigation
             currentCategory = null; // Clear current category
 
