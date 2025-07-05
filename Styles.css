@@ -150,3 +150,7 @@
             --tw-text-opacity: 1;
             color: rgb(75 85 99 / var(--tw-text-opacity, 1));
         }
+
+        .ingredient-number-circle {
+            background-color: #216481;
+        }
