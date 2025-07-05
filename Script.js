@@ -342,7 +342,7 @@
             for (let i = 1; i <= 20; i++) {
                 const measure = meal[`strMeasure${i}`];
                 if (measure && measure.trim() !== '') {
-                    // Measure items with orange background and white text
+                    // Measure items with orange background and white texts
                     measuresHtml += `
                         <div class="measure-item">
                             <span class="arrow">&rarr;</span>
